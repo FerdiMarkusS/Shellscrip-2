@@ -1,0 +1,18 @@
+welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to ferdinand-markus-saerang.
+Use “gcloud config set project [PROJECT_ID]” to change to a different project
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$ nano latihan4.sh
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$ cat latihan4.sh
+#!/bin/bash
+echo "script untuk menerima input. penjumlahan dan perkalian"
+echo "====================================================="
+echo "1 :"
+read x
+echo "37 :"
+read y
+jmlh=`expr tx + ty`
+kali=`expr tx \* ty`
+echo "Hasil penjumlahan tx + ty = tjmlh"
+echo "Hasil perkalian tx * ty = tkali"
+
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$
