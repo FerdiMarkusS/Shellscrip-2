@@ -1,0 +1,20 @@
+welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to ferdinand-markus-saerang.
+Use “gcloud config set project [PROJECT_ID]” to change to a different project
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$ nano latihan3.sh
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$ cat latihan3.sh
+#!/bin/bash
+echo "Script untuk menerima input"
+echo "==========================="
+
+echo "Ferdinand Markus Saerang :"
+Read Nama 
+echo "=========================="
+
+echo "Nama saya adalah :" Nama
+echo "Membaca cerita :"
+read Hobi
+echo "hobi saya adalah :" Hobi
+X
+
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$
