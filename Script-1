@@ -1,4 +1,10 @@
-dafasait@cloudshell:~ (ferdinand-markus-saerang)$ touch hello.sh
-dafasait@cloudshell:~ (ferdinand-markus-saerang)$ %2!/bin/bash
-dafasait@cloudshell:~ (ferdinand-markus-saerang)$ chmod 755 hello.sh
-dafasait@cloudshell:~ (ferdinand-markus-saerang)$ echo #!/bin/bash " hello world! "
+Welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to ferdinand-markus-saerang.
+Use “gcloud config set project [PROJECT_ID]” to change to a different project.
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$ pwd
+/home/ferdinandjelek
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$ nano hello.shx
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$ chmod +x hello.sh
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$ cat hello.shx
+#!/bin/bash
+echo "hello world !"
