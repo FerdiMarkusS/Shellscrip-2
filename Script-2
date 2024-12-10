@@ -1,0 +1,17 @@
+Welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to ferdinand-markus-saerang.
+Use “gcloud config set project [PROJECT_ID]” to change to a different project.
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$ nano latihan1.sh
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$ cat latihan1.sh
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$ ls
+hello.shx  hello.shX  hello.shy  latihan1.sh  latihan1.shx  README-cloudshell.txt
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$ cat latihan1.shx
+#!/bin/bash
+echo "Buat direktori latihanscriptt dan file coba"
+echo "==============================="
+mkdir
+latihanscript cd
+latihanscript/
+touch coba
+
+ferdinandjelek@cloudshell:~ (ferdinand-markus-saerang)$
